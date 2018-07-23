@@ -1,0 +1,16 @@
+1) Write a python program to input a number and check whether the number is Armstrong or not and also print the Armstrong numbers within the interval 1-500.
+2) Write a python program to find the factorial of a number and print the Fibonacci series using recursion.
+3) Input a string and perform the following on it,
+      a)Print the number if characters, digits, uppercase and lowercases
+      b)Calculate the total length of a string and print it
+      c)Add ‘ing’at the end of the string
+      d)all occurrences of its first char have been changed to '$', except the first character itself.
+4)Write a Python program to change a given string to a new string where the first and last characters have been exchanged
+5) Read the following string from keyboard, ‘the quick brown fox jumps over the lazy dog.’ And perform the following,
+    a)remove the characters which have odd index values of a given string
+    b)count the occurrences of each word in a given sentence
+6) Write a Python function to reverses a string if it's length is a multiple of 4
+7)Write a Python program to sort a string lexicographically.
+8) Write a Python program to add a prefix text to all of the lines in a string.
+9)Write a Python program to print the index of the character in a string and also print the number of vowels in the string.
+10) Write a Python programthat accepts a comma separated sequence of words as input and prints the unique words in sorted form (alphanumerically)
