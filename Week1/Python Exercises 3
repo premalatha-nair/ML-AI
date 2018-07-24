@@ -1,0 +1,10 @@
+1) Write a program which will find all such numbers which are divisible by 9 but are not a multiple of 5, between 0 and 3000 (both included). Print them on screen.
+2) Generate a dictionary contains radius and area of the circle,radius-ranging from 1 to n. Print the dictionary. Input is n.
+3) Write a program to accept the height and weight of students in a class. Use Tuples to store them and print their BMI on the screen.
+4) Write a program which will accept two inputs matrices. Aand B.  Multiply A&B and print the output. 
+5) Write a program that accepts a comma separated sequence of words as input. Sort and print them in alphabetical order. 6)Write a program to check password validity. Password should satisfy the conditions below
+    Minimum of 8 characters
+    Atleast one Capital Letter
+    Atleast one number
+    Atleast one special character
+    Maximum 14 characters
