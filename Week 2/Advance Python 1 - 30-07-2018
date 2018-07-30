@@ -1,0 +1,21 @@
+Pandas:
+1.	Read pandas
+2.	Install pandas
+3.	Import pandas in your program 
+4.	Import any dataset using pandas
+5.	Print the name of first two columns
+6.	Print the variable types
+7.	Print the maximum and minimum of a specific column
+Numpy:
+1.	Read numpy 
+2.	Install numpy
+3.	Import numpy in your program
+4.	Input multidimensional array and print the dimensions of the array using numpy
+5.	Reshape the M*N array as N*M
+6.	Perform slicing operation
+7.	Convert multidimensional array elements into a 1D array
+8.	Print minimum, maximum and sum of array elements
+9.	Perform the following array operations
+  1.	Addition
+  2.	Multiplication
+  3.	division
