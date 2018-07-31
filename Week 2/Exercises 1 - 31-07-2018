@@ -15,7 +15,7 @@ Write a python program to plot a pie chart using the above data.
   ________________________________________________________________________________
    Beast Animals  | Other Land Animals 	|  Birds |	 Water Animals 	| Reptiles 
   _________________________________________________________________________________
-        150	      |       400	         |   225	 |       175	      |    50
+        150	   |       400	      |   225	 |       175	    |    50
 
 Write a python program to represent the above data by a pie chart.
 
