@@ -1,0 +1,21 @@
+1.Look at this record of traffic travelling down a particular road.
+Traffic Survey 31 January 2008
+____________________________________
+Type of vehicle |	Number of vehicles
+____________________________________
+Cars	          |      140
+Motorbikes	    |       70
+Vans	          |       55
+Buses	          |       5
+Total vehicles	|      270
+
+Write a python program to plot a pie chart using the above data.
+
+2. In a Zoological park there are 1000 creatures as per the following table given below: 
+  ________________________________________________________________________________
+   Beast Animals  | Other Land Animals 	|  Birds |	 Water Animals 	| Reptiles 
+  _________________________________________________________________________________
+        150	      |       400	          |   225	 |        175	      |    50
+
+Write a python program to represent the above data by a pie chart.
+
