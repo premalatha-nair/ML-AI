@@ -1,0 +1,15 @@
+1.	Given the rent data file,
+
+i)	write a python program to do the following,
+
+a.	Calculate the mean, mode and median of the rents
+b.	Generate a frequency distribution and print the table
+c.	Print the cumulative frequent distribution
+d.	Calculate 25th, 50th and 75th percentile values
+e.	Calculate variance and coefficient of variance
+
+ii)	Consider the housing rent dataset and print the data set then plot the following
+
+a.	Scatter graph
+b.	Regression line
+c.	Histogram
