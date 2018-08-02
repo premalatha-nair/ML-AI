@@ -1,0 +1,11 @@
+1. Reading : Coeff of correlation, coeff of determination, multiple variable regression, least square error, 
+residual errors etc
+
+2. Implememt linear regression for Boston house price sets
+
+3. Pick up  10, 20 and 30 rows and predict the house prices using the model.
+
+4. Determoine the R**2 value for the model.
+
+5. Continuing assignment : How do you propose to run your ML model in a production environment?
+
