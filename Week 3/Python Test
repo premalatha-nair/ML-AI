@@ -1,0 +1,23 @@
+1.	Given sales dataset and perform the following operations on it,
+  a.	Print the name of columns
+  b.	Print 10 rows and 10 columns in the data set
+  c.	Plot any graph to represent the total profit
+  d.	Print the item type with total cost greater than 1000000
+2.	Given a data set ‘camera.csv’ and perform the following analysis using python functions and print the output,
+  a)	Print the properties of the data set
+  b)	Print the data types of properties
+  c)	Print the model, release date and price of first 25 entries
+  d)	Summarise the data set
+  e)	Print the summary statistics for price
+  f)	Plot a time series graph of release date and price > 1000
+  g)	Do exploratory data analysis and plot visualization charts  
+  h)	Save all plots into a file and upload in github with the code
+3.	Create a file with inputs, name, age, gender, height and weight of 5 students.  
+  a)	Retrieve the data from file and print it
+  b)	Print the students in the order of their height
+  c)	Calculate the BMI and print it by adding an extra field BMI to the table
+  d)	Group them by BMI
+  e)	Print the name of student who have 
+    1.	Healthy weight 
+    2.	Overweight 
+    3.	Obese 
