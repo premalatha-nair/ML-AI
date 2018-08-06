@@ -21,3 +21,7 @@
     1.	Healthy weight 
     2.	Overweight 
     3.	Obese 
+4. Write a python program to create a 2D array and perform the following operations on it,
+  a)	Print the dimensions of the array
+  b)	Update the array by changing the dimension to 3D
+  c)	Add 5 to every element, subtract 2 from each element, multiply each element by 5
